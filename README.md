@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Nitya Parmar]
+            
 
 ## 🎓 About Me
 - Computer Science Student at [ITM BARODA UNIVERSITY]
