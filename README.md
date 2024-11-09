@@ -6,6 +6,7 @@
 - First Year Student passionate about technology
 - Currently learning Web Development and Python
 - Looking to collaborate on beginner-friendly open source projects
+- Currently completing CS50 By Harvard University
 
 ## 🛠 Tech Stack
 ### Currently Learning:
