@@ -29,6 +29,7 @@
 ## 📫 How to reach me:
 - Email: [nityaparmar1707@gmail.com]
 - LinkedIn: [NOT available]
+- X(Twitter):[https://x.com/NityaParmar007]
 
 ## ⚡ Fun fact: 
 [Just an ordinary guy with unordinary ambitions and dreams!]## Hi there 👋
