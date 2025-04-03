@@ -20,7 +20,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NityaParmar&show_icons=true&theme=radical)
 
 ## 🌱 Current Projects
 - Personal Portfolio Website (In Progress)
