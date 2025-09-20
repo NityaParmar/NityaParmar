@@ -3,7 +3,7 @@
 
 ## 🎓 About Me
 - Computer Science Student at [ITM BARODA UNIVERSITY]
-- First Year Student passionate about technology
+- 2nd Year Student passionate about technology
 - Currently learning Web Development and Python
 - Looking to collaborate on beginner-friendly open source projects
 - Currently completing CS50 By Harvard University
