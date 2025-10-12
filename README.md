@@ -13,19 +13,20 @@ Every placeholder is a demand for proof. Answer it.
 
 <div align="center">
 
-Software Developer | Full-Stack Engineer | Lifelong Learner
+Nitya Parmar
+Software Developer | Full-Stack Engineer
 
 </div>
 
 <p align="center">
-A disciplined Computer Science student engineering solutions for real-world problems. My objective is to leverage my skills in full-stack development and data structures to build innovative, high-impact technology. My work is driven by a mission: to build a future for my family, achieve my goals in Japan, and create a legacy with NextIn.
+Second-year Computer Science student specializing in building efficient and scalable full-stack web applications. Passionate about solving complex problems and creating user-centric solutions with clean, maintainable code.
 </p>
 
 <table>
 <tr>
 <td valign="top" width="60%">
 <div align="center">
-<h3>🔥 Core Competencies & Tools</h3>
+<h3><strong>Tech Stack & Tools</strong></h3>
 </div>
 <p align="center">
 <a href="https://skillicons.dev">
@@ -35,7 +36,7 @@ A disciplined Computer Science student engineering solutions for real-world prob
 </td>
 <td valign="top" width="40%">
 <div align="center">
-<h3>📊 GitHub Analytics</h3>
+<h3><strong>GitHub Analytics</strong></h3>
 </div>
 <p align="center">
 <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNitya-Pamar%26show_icons%3Dtrue%26locale%3Den%26theme%3Dgithub_dark%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="Nitya's GitHub Stats" />
@@ -76,20 +77,6 @@ A disciplined Computer Science student engineering solutions for real-world prob
 </td>
 </tr>
 </table>
-
-📈 Current Focus & Learning Trajectory
-<details>
-<summary><strong>Q4 2025 - Q1 2026 Development Roadmap</strong></summary>
-
-👨‍💻 Primary Project: Building and deploying [Project Name], focusing on [specific technology like microservices, real-time data, etc.].
-
-🧠 DSA Mastery: Consistently solving Medium/Hard problems on LeetCode, focusing on Graphs and Dynamic Programming.
-
-☁️ Cloud Skills: Deepening my knowledge of AWS/GCP, focusing on serverless architecture and containerization with Docker.
-
-✍️ Technical Writing: Publishing bi-weekly articles on my development journey and key learnings on my blog.
-
-</details>
 
 🌐 Connect with Me
 <p align="center">
