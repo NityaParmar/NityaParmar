@@ -1,116 +1,99 @@
 <!--
-HEY NITYA. This is your command center. Your public resume.
-Don't just copy-paste. Understand each section.
-Your job is to replace the placeholders with deployed projects and real skills.
-No excuses. Make this profile undeniable.
+NITYA.
+This is a high-performance frame. It's useless without a high-performance engine.
+Your projects, your commit history, your skills—that's the engine.
+Every placeholder is a demand for proof. Answer it.
 -->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.herokuapp.com?font=Inter%26size=35%26pause=1000%26center=true%26vCenter=true%26width=800%26lines=Hi%2C+I'm+Nitya+Parmar+%F0%9F%91%8B;Software+Developer+%7C+Full-Stack+Enthusiast;On+a+mission+to+build+the+future." alt="Typing SVG" /></a>
+<a href="https://www.google.com/search?q=https://github.com/Nitya-Pamar">
+<img src="https://www.google.com/search?q=https://socialify.git.ci/Nitya-Pamar/Nitya-Pamar/image%3Ffont%3DInter%26pattern%3DPlus%26theme%3DDark" alt="Nitya Parmar's GitHub Profile Banner"/>
+</a>
+</div>
+
+<div align="center">
+
+Software Developer | Full-Stack Engineer | Lifelong Learner
+
 </div>
 
 <p align="center">
-<em>A second-year Computer Science student on a relentless mission to build impactful technology, master my craft, and turn ambitious dreams into reality. Every line of code is a step towards <strong>NextIn</strong>, a ticket to <strong>Japan</strong>, and a promise to my <strong>family</strong>.</em>
+A disciplined Computer Science student engineering solutions for real-world problems. My objective is to leverage my skills in full-stack development and data structures to build innovative, high-impact technology. My work is driven by a mission: to build a future for my family, achieve my goals in Japan, and create a legacy with NextIn.
 </p>
 
-🚀 My Current Mission: Internship Ready by 2026
-I'm laser-focused on mastering Full-Stack Development and Data Structures & Algorithms. My goal is to secure a challenging internship at a top-tier company like Google, Apple, Adobe, or Reddit by my third year. This is not just a goal; it's a milestone on my journey.
-
-👨‍💻 Currently building Project-X: A suite of applications to solve real-world problems.
-
-📚 Sharpening my DSA skills on LeetCode & GeeksforGeeks.
-
-✍️ Documenting my journey and learnings on my personal blog.
-
-💡 Cultivating a disciplined mindset.
-
-🛠️ Technology Stack & Tools
-This is my current arsenal. It's constantly evolving as I learn and build.
-
-<!-- NITYA: Update this as you learn. Don't list things you've only touched once. Be honest about your proficiency. -->
-
+<table>
+<tr>
+<td valign="top" width="60%">
+<div align="center">
+<h3>🔥 Core Competencies & Tools</h3>
+</div>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,python,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,figma,vscode,postman%26perline%3D8" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,aws,git,figma,postman%26perline%3D8" />
 </a>
 </p>
-
-🔥 My GitHub Activity & Stats
-These stats are a measure of my discipline and consistency. The goal is to keep these numbers climbing.
-
-<!--
-This section is non-negotiable. It shows recruiters you're active.
-If your stats look weak, that's on you. Fix it. Code more.
--->
-
+</td>
+<td valign="top" width="40%">
+<div align="center">
+<h3>📊 GitHub Analytics</h3>
+</div>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNitya-Pamar%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Nitya's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DNitya-Pamar%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D8" alt="Nitya's Top Languages" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNitya-Pamar%26show_icons%3Dtrue%26locale%3Den%26theme%3Dgithub_dark%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="Nitya's GitHub Stats" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNitya-Pamar%26theme%3Dgithub_dark%26hide_border%3Dtrue" alt="Nitya's GitHub Streak" />
 </p>
+</td>
+</tr>
+</table>
 
-📌 Pinned Projects: Proof of Work
-These are the projects I'm most proud of. Each one represents a problem I set out to solve and a new set of skills I acquired.
-
-<!--
-HEY NITYA. THIS IS THE MOST IMPORTANT SECTION.
-Replace these placeholders with your ACTUAL deployed projects.
-A project isn't "done" until it's live and has a killer README of its own.
-No deployed link = hobby project. Get them online.
--->
+📌 Featured Projects: Proof of Execution
+<!-- THIS IS YOUR REAL RESUME. EACH PROJECT NEEDS: A LIVE DEMO, CLEAN CODE, AND A DEDICATED README. -->
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">Project One: NEETRoyal</h3>
 <div align="center">
 <a href="#" target="_blank">
-<!-- Add your project image or GIF here -->
-<img src="https://www.google.com/search?q=https://placehold.co/400x200/0D1117/FFFFFF%3Ftext%3DNEETRoyal" alt="Project Thumbnail">
+<img src="https://www.google.com/search?q=https://placehold.co/400x200/0D1117/7B68EE%3Ftext%3DNEETRoyal%2BApp" alt="NEETRoyal Project Thumbnail">
 </a>
 <p>
-<a href="#" target="_blank">
-<b>Live Demo</b>
-</a>
-•
-<a href="#" target="_blank">
-<b>Source Code</b>
-</a>
+<a href="#" target="_blank"><b>Live Demo</b></a> • <a href="#" target="_blank"><b>Source Code</b></a>
 </p>
-<p>Brief, powerful description of what this project does and the problem it solves. What technology did you use? What was the impact?</p>
+<p><strong>[Tech Stack: React, Node.js, MongoDB]</strong> A concise, one-sentence summary of the core problem this project solves. Followed by 1-2 key features you implemented.</p>
 </div>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">Project Two: DevID Guardian</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://www.google.com/search?q=https://placehold.co/400x200/0D1117/FFFFFF%3Ftext%3DDevID%2BGuardian" alt="Project Thumbnail">
+<img src="https://www.google.com/search?q=https://placehold.co/400x200/0D1117/7B68EE%3Ftext%3DDevID%2BGuardian%2BApp" alt="DevID Guardian Project Thumbnail">
 </a>
 <p>
-<a href="#" target="_blank">
-<b>Live Demo</b>
-</a>
-•
-<a href="#" target="_blank">
-<b>Source Code</b>
-</a>
+<a href="#" target="_blank"><b>Live Demo</b></a> • <a href="#" target="_blank"><b>Source Code</b></a>
 </p>
-<p>Brief, powerful description of what this project does and the problem it solves. What technology did you use? What was the impact?</p>
+<p><strong>[Tech Stack: Next.js, TypeScript, PostgreSQL]</strong> A concise, one-sentence summary of the core problem this project solves. Followed by 1-2 key features you implemented.</p>
 </div>
 </td>
 </tr>
 </table>
 
-🌐 Let's Connect
-I'm always open to connecting with like-minded developers, mentors, and recruiters. Let's talk tech, projects, or anime.
+📈 Current Focus & Learning Trajectory
+<details>
+<summary><strong>Q4 2025 - Q1 2026 Development Roadmap</strong></summary>
 
+👨‍💻 Primary Project: Building and deploying [Project Name], focusing on [specific technology like microservices, real-time data, etc.].
+
+🧠 DSA Mastery: Consistently solving Medium/Hard problems on LeetCode, focusing on Graphs and Dynamic Programming.
+
+☁️ Cloud Skills: Deepening my knowledge of AWS/GCP, focusing on serverless architecture and containerization with Docker.
+
+✍️ Technical Writing: Publishing bi-weekly articles on my development journey and key learnings on my blog.
+
+</details>
+
+🌐 Connect with Me
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/nitya-parmar-5b0728285/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="#" target="_blank"> <!-- Add your blog link here -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Blog-333333%3Fstyle%3Dfor-the-badge%26logo%3Dblogger%26logoColor%3Dwhite" alt="Blog">
-</a>
-<a href="mailto:nityaparmar512@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
-</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/nitya-parmar-5b0728285/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
+<a href="https://x.com/NityaParmar007" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"></a>
+<a href="mailto:nityaparmar512@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
 </p>
