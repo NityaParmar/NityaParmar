@@ -45,7 +45,6 @@ const nitya: Developer = {
   funFact    : "I build game engines for fun 🎮",
 };
 
-
 ---
 
 ## 🛠️ Technology Arsenal
