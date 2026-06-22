@@ -44,7 +44,7 @@ const nitya: Developer = {
   researchOn : "Procedural Content Generation (PCG) & Automated Level Design",
   funFact    : "I build game engines for fun 🎮",
 };
-` ` `
+```
 
 ---
 
@@ -114,6 +114,7 @@ const nitya: Developer = {
 
 <br/><br/>
 
+<!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NityaParmar&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
