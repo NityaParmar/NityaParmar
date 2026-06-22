@@ -7,15 +7,20 @@
 <h1 align="center">👋 Hi, I'm Nitya Parmar</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer • Problem Solver</strong><br>
-  Building scalable web applications and mastering complex systems.
+  <strong>Software Engineer • Full-Stack Developer</strong><br>
+  Focused on building robust web architectures and real-time computing systems.
+</p>
+
+<p align="center">
+  <a href="https://nityaparmar.netlify.app/" target="_blank"><b>🌐 Personal Portfolio</b></a> • 
+  <a href="https://nityaparmar.netlify.app/research" target="_blank"><b>📄 Research & Papers</b></a>
 </p>
 
 ## 🧠 About Me
 * 🎓 **Education:** Computer Science student at ITM(SLS) Baroda University.
-* 💻 **Focus:** High-performance full-stack web architectures and Data Structures & Algorithms.
-* ⚙️ **Philosophy:** Writing clean, maintainable, production-level code.
-* 🚀 **Aspiration:** Building impactful tech and driving meaningful software solutions.
+* 💻 **Core Focus:** Full-stack architecture, procedural generation, and clean code principles.
+* 📈 **DSA Language:** C++ for deep problem-solving and algorithmic foundations.
+* ⚡ **Daily Goal:** Pushing optimized code and staying disciplined through systematic growth.
 
 ---
 
@@ -23,32 +28,26 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,github,tailwind,postman,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mysql,git,github,html,css,tailwind,bootstrap,postman,vscode&perline=7" />
   </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Active Focus & Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>🛡️ DevID Guardian</h3>
-<p>A secure identity and credential manager handling account masking, alias management, and private key storage.</p>
-<p><strong>Stack:</strong> Next.js, TypeScript, PostgreSQL, Supabase</p>
-<p>
-  <a href="https://github.com/NityaParmar" target="_blank"><b>🖥️ Source Code</b></a>
-</p>
+<h3>🌌 Genesis Grid</h3>
+<p>An optimization project focusing on real-time spatial generation utilizing complex Cellular Automata systems.</p>
+<p><strong>Stack:</strong> C++</p>
 </td>
 
 <td width="50%" valign="top">
-<h3>👑 NEETRoyal</h3>
-<p>A competitive gamified learning platform featuring real-time quizzes, an XP progression system, and global leaderboards.</p>
-<p><strong>Stack:</strong> React.js, Node.js, Express, MongoDB</p>
-<p>
-  <a href="https://github.com/NityaParmar" target="_blank"><b>🖥️ Source Code</b></a>
-</p>
+<h3>📝 Online Examination System</h3>
+<p>A full-stack web portal managing complex database constraints, performance evaluation, and deep analytics dashboards.</p>
+<p><strong>Stack:</strong> PHP, Bootstrap, MySQL</p>
 </td>
 </tr>
 </table>
