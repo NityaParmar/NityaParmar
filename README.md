@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitya%20Parmar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Engineer%20%7C%20Systems%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitya%20Parmar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Engineer%20%7C%20Systems%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+%40+ITM(SLS)+Baroda;Systems+%7C+Full-Stack+%7C+Data+Engineering;Game+Engine+Developer+%F0%9F%8E%AE;Building+Tomorrow's+Systems+Today+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+%40+ITM+SLS+Baroda;Systems+%7C+Full-Stack+%7C+Data+Engineering;Game+Engine+Developer+%F0%9F%8E%AE;Building+Tomorrow%27s+Systems+Today+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -114,7 +114,6 @@ const nitya: Developer = {
 
 <br/><br/>
 
-<!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NityaParmar&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
