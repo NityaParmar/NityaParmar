@@ -16,7 +16,7 @@ Building efficient, scalable, and user-focused web applications.
 </p>
 
 🧠 About
-🎓 Second-year Computer Science student at ITM(SLS) University, Baroda.
+🎓 Third-year Computer Science student at ITM(SLS) University, Baroda.
 
 💻 Skilled in full-stack web development with modern frameworks.
 
