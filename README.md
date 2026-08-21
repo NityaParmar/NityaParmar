@@ -37,7 +37,7 @@
 const nitya: Developer = {
   name       : "Nitya Parmar",
   university : "ITM (SLS) Baroda University",
-  degree     : "B.Sc. Computer Science",
+  degree     : "B.Tech. Computer Science",
   focus      : ["Systems Programming", "Full-Stack Dev", "Data Analytics"],
   currentWork: ["Rākshaka Game Engine (C++)", "VajraTrade Backend", "DevID Guardian"],
   interests  : ["Low-Level Memory Mgmt", "Real-Time Graphics", "Algorithmic Design"],
