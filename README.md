@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/🌐%20Portfolio-nityaparmar.netlify.app-6E40C9?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://nityaparmar.netlify.app/research" target="_blank">
+  <a href="https://zenodo.org/records/21915780" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Research-PCG%20Papers-0D1117?style=for-the-badge&logo=academia&logoColor=white" alt="Research"/>
   </a>
   &nbsp;
