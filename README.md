@@ -94,7 +94,7 @@ const nitya: Developer = {
 | 👑 **[Rākshaka](https://github.com/NityaParmar)** | `C++` `OpenGL` `GLFW` | 🟡 Active | Custom game engine from scratch — low-level memory mgmt, hardware optimization & real-time graphics pipelines |
 | 🛡️ **[DevID Guardian](https://github.com/NityaParmar)** | `Supabase` `Node.js` `TypeScript` | 🟡 Active | Secure identity & credential vault — cryptographic routing, account masking & private key storage |
 | 📊 **[VajraTrade](https://github.com/NityaParmar)** | `PostgreSQL` `Express` `Node.js` | 🟢 Building | High-integrity financial backend — data state manipulation & low-latency transaction processing |
-| 📝 **[Exam Engine](https://github.com/NityaParmar)** | `React` `MySQL` `Next.js` | 🟡 Active | Full-stack examination system — relational DB constraints, evaluation pipelines & live dashboards |
+| 📝 **[NEETROYAL](https://github.com/NityaParmar/NEETROYAL-SIH)** | `React` `PostgreSQL` `Python` `FastApi` `LLM` `Next.js` `TypeScript` `Js` | 🟡 Active | NEETROYAL — a real-time multiplayer NEET quiz battle platform with AI-powered performance analysis. |
 
 </div>
 
